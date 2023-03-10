@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "MUHAMMAD ",
+      "lastname": "---",
+      "dateofBirth": "2023-03-08",
+      "officeemail": "test@gmail.com",
+      "contactnum": "98235777",
+      "gender": "Male",
+      "emptype": "Part Time",
+      "empdep": "Development",
+      "id": 2
+    },
+    {
+      "firstname": "eflsekr",
+      "lastname": "lkjlkjf",
+      "dateofBirth": "2023-03-08",
+      "officeemail": "djfkwy",
+      "contactnum": "5345",
+      "gender": "Male",
+      "emptype": "Permanent",
+      "empdep": "Admin",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "tasktitle": "Modal",
+      "taskdescription": "create Modal",
+      "asignto": "MUHAMMAD",
+      "date": "2023-03-08",
+      "status": "Pending",
+      "priority": "High",
+      "id": 1
+    }
+  ]
+}
